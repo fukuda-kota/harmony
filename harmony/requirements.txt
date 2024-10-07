@@ -1,0 +1,8 @@
+streamlit
+spleeter
+librosa
+numpy
+pyworld
+soundfile
+scipy
+pydub
